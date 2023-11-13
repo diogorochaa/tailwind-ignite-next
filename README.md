@@ -15,7 +15,7 @@ Tailwind | @diogodev_
 
 ## :dart: About
 
-Esse projeto foi desenvolvido para fins de estudo do next 13 no curso do ignite
+Esse projeto foi desenvolvido para fins de estudo do tailwind com next 13 no curso do ignite
 
 ## :rocket: Technologies
 
